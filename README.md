@@ -1,11 +1,2 @@
 ### Hi there 👋
-
-<!--
-**safaayadi/safaayadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently learning cloud computing  
-- 💬 know about my experience : https://www.linkedin.com/in/safa-ayadi-3b3234186/
-- 📫 How to reach me: ayedisafa00@gmail.com
--->
+I'm Safa from Tunisia. I possess a strong drive and determination to succeed, and I am highly adaptable to various situations. Moreover, I have demonstrated the ability to grow myself and others. I find great pleasure in exploring new technologies, programming languages, and frameworks, such as React, as well as SharePoint, and Power Platform. Additionally, I have a keen interest in cloud computing.
